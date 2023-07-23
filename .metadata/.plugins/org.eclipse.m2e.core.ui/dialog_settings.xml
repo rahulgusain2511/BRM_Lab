@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/rahulgusain/eclipse-workspace/DevOps_Lab_6/pom.xml"/>
+			<item value="/Users/rahulgusain/eclipse-workspace/DevOps_Lab4_site"/>
+			<item value="/Users/rahulgusain/eclipse-workspace/devops.lab2/src/main/java/devops/lab2/MyClass.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="BRM_LAB_10"/>
+			<item value="devops-demo-devyansh"/>
+			<item value="Demo_Sonar"/>
+			<item value="DevOps_Lab_6"/>
+			<item value="devops.lab2.2"/>
+			<item value="devops.lab3"/>
+			<item value="Devops_Lab3"/>
+			<item value="DevOps_Lab4_site"/>
+			<item value="devops.lab2"/>
+			<item value="upes.devops"/>
+		</list>
+		<list key="name">
+			<item value="BRM_LAB_10"/>
+			<item value="devops-demo-devyansh"/>
+			<item value="Demo_Sonar"/>
+			<item value="DevOps_Lab_6"/>
+			<item value="devops.lab2.2"/>
+			<item value="devops.lab3"/>
+			<item value="Devops_Lab3"/>
+			<item value="DevOps_Lab4_site"/>
+			<item value="BRM_LAB2"/>
+			<item value="BRM_LAB1"/>
+		</list>
+		<list key="artifactId">
+			<item value="BRM_LAB_10"/>
+			<item value="devops-demo-devyansh"/>
+			<item value="Demo_Sonar"/>
+			<item value="DevOps_Lab_6"/>
+			<item value="devops.lab2.2"/>
+			<item value="devops.lab3"/>
+			<item value="Devops_Lab3"/>
+			<item value="DevOps_Lab4_site"/>
+			<item value="devops.lab2"/>
+			<item value="devops.lab2.id"/>
+			<item value="upes.devops.id1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/rahulgusain/eclipse-workspace/devops.lab3"/>
+			<item value="/Users/rahulgusain/eclipse-workspace/Project2/src/pkg2/MyTestClass.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

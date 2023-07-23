@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;devops.lab2&apos;&#x0A;- Original project: &apos;devops.lab2&apos;&#x0A;- Original element: &apos;devops.lab2.reverse.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;devops.lab2{reverse.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1644513161295" subPackages="false" version="1.0"/>
+</session>
